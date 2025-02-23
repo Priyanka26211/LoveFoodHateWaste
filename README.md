@@ -1,7 +1,3 @@
-To create a more visually engaging README file for your "LoveFoodHateWaste" project, you can use creative handwriting fonts, colorful stickers, and icons to make it stand out. Here's a revised version with more visual flair:
-
----
-
 ![LoveFoodHateWaste](https://example.com/lovefoodhatewaste-logo.png)
 
 # **LoveFoodHateWaste** 🌍🍲
