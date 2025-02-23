@@ -1,16 +1,14 @@
-![LoveFoodHateWaste](https://example.com/lovefoodhatewaste-logo.png)
-
 # **LoveFoodHateWaste** 🌍🍲
 
 Welcome to **LoveFoodHateWaste**, the Android app designed to tackle food wastage and hunger by connecting people with excess food to NGOs and biogas companies. By fostering a community of conscious consumers and organizations, we aim to reduce food waste and help those in need.
 
 ## 🌟 Features
 
-- ![Donate](https://example.com/donate-icon.png) **Donate Extra Food**: Easily donate surplus food to NGOs that distribute it to those in need.
-- ![NGO](https://example.com/ngo-icon.png) **Connect with NGOs**: Find and collaborate with local NGOs that support your mission.
-- ![Biogas](https://example.com/biogas-icon.png) **Unusable Food to Biogas**: Sell unusable food to biogas companies to ensure nothing goes to waste.
-- ![Interface](https://example.com/interface-icon.png) **User-Friendly Interface**: An intuitive design that makes donating and connecting a breeze.
-- ![Notification](https://example.com/notification-icon.png) **Real-Time Notifications**: Stay updated with the latest donation requests and opportunities.
+**Donate Extra Food**: Easily donate surplus food to NGOs that distribute it to those in need.
+**Connect with NGOs**: Find and collaborate with local NGOs that support your mission.
+**Unusable Food to Biogas**: Sell unusable food to biogas companies to ensure nothing goes to waste.
+**User-Friendly Interface**: An intuitive design that makes donating and connecting a breeze.
+**Real-Time Notifications**: Stay updated with the latest donation requests and opportunities.
 
 ## 📲 How It Works
 
@@ -49,9 +47,9 @@ At LoveFoodHateWaste, our mission is to create a sustainable future by reducing 
 
 Join our community and help us make a difference! Follow us on social media, contribute to our project, and spread the word.
 
-- ![Twitter](https://example.com/twitter-icon.png) [Twitter](https://twitter.com/LoveFoodHateWaste)
-- ![Facebook](https://example.com/facebook-icon.png) [Facebook](https://facebook.com/LoveFoodHateWaste)
-- ![Instagram](https://example.com/instagram-icon.png) [Instagram](https://instagram.com/LoveFoodHateWaste)
+[Twitter](https://twitter.com/LoveFoodHateWaste)
+[Facebook](https://facebook.com/LoveFoodHateWaste)
+[Instagram](https://instagram.com/LoveFoodHateWaste)
 
 ## 🙌 Acknowledgements
 
