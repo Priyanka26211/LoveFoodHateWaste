@@ -23,7 +23,7 @@ To get started, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/LoveFoodHateWaste.git
+   git clone https://github.com/Priyanka26211/LoveFoodHateWaste
    ```
 
 2. **Install Dependencies**: 
